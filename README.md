@@ -21,3 +21,12 @@ Que es un apartado del examen de DEAW.
 ## Publicación
 
 > Esto se publicará en GitHub Page
+
+
+## Estructura del proyecto
+
+proyecto-examen/
+
+|- aprende-python-mulerofrancisco (repositorio de trabajo: Partes 1, 2 y 3)
+
+|- aprende-python-fork (clon de tu fork, la carpeta se copia al forkear)
